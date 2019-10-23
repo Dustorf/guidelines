@@ -17,7 +17,7 @@ To do this, knowledge of Decred's approach to the following topics is critical:
 7. **Scalability**: layer 2 Solutions, LN, privacy, instant transactions, micropayments.
 8. **Comparisons** of Decred vs comparable coins (Bitcoin, Dash, Monero, etc.).
 9. **Exchanges, Wallets, Partnerships**: how to acquire and store DCR, how to participate in the network (solo staking vs VSPs).
-10. **Decred DEX** details.
+10. **Decred DEX** [details] (https://github.com/decred/dcrdex).
 
 ### Responsibilities
 
